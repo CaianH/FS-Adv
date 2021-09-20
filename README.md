@@ -1,4 +1,4 @@
-Pagina Web do Escritório FS|Advocacia!!
+Projeto pagina Web do Escritório FS|Advocacia!!
 
 TECNOLOGIAS: html, CSS, JS
 
