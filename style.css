@@ -144,7 +144,7 @@ body {
 
 /*====  LOGO ============================ */
 #logo {
-  background: url(../img/logo.png) center center/8.375rem no-repeat;
+  background: url(img/logo.png) center center/8.375rem no-repeat;
   height: 1.9375rem;
   width: 8.375rem;
 }
@@ -480,7 +480,7 @@ footer.section {
 footer .logo {
   display: inline-block;
   margin-bottom: 1.5rem;
-  background: url(../img/logo.png) center center/8.375rem no-repeat;
+  background: url(img/logo.png) center center/8.375rem no-repeat;
   height: 1.9375rem;
   width: 8.375rem;
 }
